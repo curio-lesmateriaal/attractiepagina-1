@@ -25,7 +25,132 @@ require_once 'admin/backend/config.php';
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi dolore magnam! Iste libero voluptatum autem, sapiente ullam earum nostrum sed magnam vel laboriosam quibusdam, officia, esse vitae dignissimos nulla?
         </aside>
         <main>
+            <h1>Attracties</h1>
             <!-- hier komen de attractiekaartjes -->
+            <div class="attracties">
+                <div class="attr-card">
+                    <div class="card-img img-1"></div>
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card " id="large">
+                <div class="card-img img-2"></div>
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+
+
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+                <div class="attr-card">
+                    <img src="" alt="">
+                    <div>
+                        <p class="adv">adventureland</p>
+                        <h2>Speedy XL</h2>
+                        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="rule">120cm minimale lengte</p>
+                    </div>
+                </div>
+
+            </div>
         </main>
     </div>
 

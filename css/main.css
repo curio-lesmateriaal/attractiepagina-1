@@ -263,6 +263,66 @@ th{
   clear: both;
 }
 
+.attracties {
+  display: grid;
+  grid-template-columns: repeat(4,23%);
+  grid-template-rows: 500px 500px 500px;
+  gap: 20px ;
+}
+
+.attr-card {
+  border: 1px solid #b8b8b8;
+  /* background-color: #999; */
+  border-radius: 15px;
+}
+
+.attr-card .card-img {
+  height: 330px;
+  margin-bottom: 5px;
+  border-radius: 15px 15px 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.img-1 {
+  background-image: url(../img/attracties/adger-kang-oiyzr-SgjBY-unsplash.jpg);
+}
+
+.img-2 {
+  background-image: url(../img/attracties/alex-kalinin-6gYjwD4s9xk-unsplash.jpg);
+}
+
+.attr-card .adv {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.attr-card div {
+  padding-left: 10px;
+}
+
+h2 {
+  font-family: Oxanium;
+  font-weight: bold;
+  color: rgb(5, 48, 5);
+  margin-top: -17px;
+}
+
+.desc {
+  margin-bottom: 10px;
+  max-width: 200px;
+}
+
+.attr-card .rule {
+  color: #999;
+  margin-top: 20px ;
+}
+
+#large {
+  grid-column: 2/4;
+}
+
+
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
